@@ -1,7 +1,5 @@
 #
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6699e&size50&center=true&vCenter=true&width=970&lines=Hello,+I'+am+Gabriel!;Welcome!☕)](https://git.io/typing-svg)
-<div align="center">
-  <a href="https://github.com/thegabriell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thegabriell&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d6699e&size50&center=true&vCenter=true&width=970&lines=Hello,+I'+am+Gabriel!;Welcome!☕)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/v4g3jynJxu)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ramos-797813242/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielramosst/)
