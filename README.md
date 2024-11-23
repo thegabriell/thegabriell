@@ -11,8 +11,7 @@
  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> . 
  <img align="center" alt="php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> .
 <img align="center" alt="Express.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-
-
+ <br><br>
 
 
 ![Gabriel' GitHub stats](https://github-readme-stats.vercel.app/api?username=thegabriell&show_icons=true&theme=transparent&cache_seconds=1800)
