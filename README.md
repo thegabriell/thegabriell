@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielramosst/) 
 <div style="margin-right: 50px;"> 
  
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,npm,webpack,postgres,mongodb,c,nextjs,androidstudio,ubuntu,html,css,sass,bootstrap,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,npm,webpack,postgres,mongodb,c,nextjs,androidstudio,ubuntu,html,css,sass,bootstrap,git,github,linux)](https://skillicons.dev)
  <br><br>
 
 
