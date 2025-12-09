@@ -8,6 +8,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,nodejs,express,npm,webpack,postgres,mongodb,c,nextjs,androidstudio,ubuntu,html,css,sass,bootstrap,git,github,linux)](https://skillicons.dev)
  <br><br>
 
-
-![Gabriel' GitHub stats](https://github-readme-stats.vercel.app/api?username=thegabriell&show_icons=true&theme=transparent&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=transparent&cache_seconds=86400)
 
